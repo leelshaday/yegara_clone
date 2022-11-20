@@ -1,0 +1,112 @@
+
+.navbar{
+    background-color:rgb(33, 29, 71)
+}
+.navbar-brand img{
+width:200px;
+margin-left:100px;
+}
+.navbar-nav li a{
+    color:white;
+
+}
+.dropdown-menu li a{
+    color:chartreuse;
+}
+
+#home{
+    background-image:url(pic/Screenshot\ 2022-11-19\ 122311.png);
+    width:100%;
+    height:100vh;
+}
+
+#home h1 {
+    color:white;
+}
+
+#home p{
+    color:white;
+    word-spacing:5px;
+    font-size: 15px;
+}
+#ho{
+    margin-left:100px;
+    margin-top:100px;
+}
+#domain{
+    width:300px;
+}
+
+.navbar-toggler-icon{
+    background-color: transparent;
+    border-color:white;
+    
+}
+
+#payment{
+    background-color:rgb(9, 4, 20);
+    
+}
+.payment{
+    margin-left:500px;
+    padding:100px;
+    color:white;
+    height:300px;
+}
+.package{
+    margin-left:400px;
+    margin-bottom: 100px;
+    padding-top:50px;
+}
+#package{
+    background-color:rgb(211, 206, 206);
+
+}
+.card{
+    border-radius: 20PX;
+    width:300px;
+    background-color: white;
+}
+#rec{
+    background-color:rgba(36, 121, 248, 0.868)
+}
+#payop
+{
+    background-color:rgb(33, 29, 71);
+    height:350px;
+}
+#start{
+    background-color:rgb(33, 29, 71);
+    padding: 100px;
+}
+#start h1{
+    color:white;
+}
+.paydes{
+    color:white;
+   
+}
+.collab{
+    margin-left: 450px;
+}
+
+#lcard{
+ color:black;
+ background-color:white;
+ width:300px;
+ 
+ 
+}
+#car{
+    margin-top: 60px;
+}
+a{
+    text-decoration: none;
+}
+#footer{
+    background-color:rgb(59, 59, 74)
+}
+.desc{
+    margin-left: 500px;
+    padding:50px;
+}
