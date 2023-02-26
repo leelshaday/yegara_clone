@@ -1,5 +1,5 @@
 Yegara host clone
-
+build using HTML and CSS
 based on https://yegara.com/
 
 ![yg](https://user-images.githubusercontent.com/96838769/221403052-71e00b2b-f947-4632-9228-8f109b426eb0.png)
